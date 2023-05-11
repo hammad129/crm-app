@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "hammadshahid@gmail.com",
+      "password": "123456",
+      "role": true,
+      "tasks": [
+        "h",
+        "g",
+        "f"
+      ]
+    },
+    {
+      "id": 2,
+      "email": "haseeb@gmail.com",
+      "password": "123456",
+      "role": false,
+      "tasks": [
+        "asdsadas"
+      ]
+    }
+    
+  ]
+}
